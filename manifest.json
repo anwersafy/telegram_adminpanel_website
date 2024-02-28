@@ -1,6 +1,6 @@
 {
-    "name": "untitled",
-    "short_name": "untitled",
+    "name": "Telegram Bot Admin",
+    "short_name": "Telegram Bot Admin",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
