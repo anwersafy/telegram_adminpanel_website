@@ -42,6 +42,7 @@
      "cameraModels": "Camera Models",
      "description": "Description :",
      "allCommercials": "Commercials",
+     "allCommercialsType": "Commercials Type",
      "allTechnicals": "Technicals",
      "allLicense": "License",
      "editLicense": "Edit License",
@@ -57,9 +58,13 @@
      "megaDescription": "Mega Description",
      "addMega" : "Add Mega",
      "addCommercial" : "Add Commercial",
+     "addCommercialType" : "Add Commercial Type",
      "commercialName": "Commercial Name",
+     "commercialType": "Commercial Type",
+     "commercialTypeName": "Commercial Type Name",
      "commercialDescription": "Commercial Description",
      "EditCommercial" : "Edit Commercial",
+     "EditCommercialType" : "Edit Commercial Type",
      "addTechnical" : "Add Technical",
      "editTechnical" : "Edit Technical",
      "addLicense" : "Add License",
@@ -85,5 +90,29 @@
      "insertionDate": "Insertion Date",
      "status": "Status",
      "all": "All",
-     "areYouSure" : "Are you sure you want to delete this item?"
+     "areYouSure" : "Are you sure you want to delete this item?",
+     "allTechnicalsType": "Technicals Type"  ,
+     "allTechnicalsTypeName": "Technicals Type Name",
+     "addTechnicalType" : "Add Technical Type",
+     "editTechnicalType" : "Edit Technical Type",
+     "allMegaType": "Mega Type",
+     "allMegaTypeName": "Mega Type Name",
+        "addMegaType" : "Add Mega Type",
+
+        "editMegaType" : "Edit Mega Type",
+
+  "AllFinancialType": "Financial Type",
+  "AllFinancialTypeName": "Financial Type Name",
+  "addFinancialType" : "Add Financial Type",
+  "editFinancialType" : "Edit Financial Type",
+  "AllFinancialServicesType": "Financial Services Type",
+  "AllFinancialServicesTypeName": "Financial Services Type Name",
+  "addFinancialServicesType" : "Add Financial Services Type",
+  "editFinancialServicesType" : "Edit Financial Services Type",
+  "AllLicenseType": "License Type",
+  "AllLicenseTypeName": "License Type Name",
+  "addLicenseType" : "Add License Type",
+  "editLicenseType" : "Edit License Type"
+
+
 }
